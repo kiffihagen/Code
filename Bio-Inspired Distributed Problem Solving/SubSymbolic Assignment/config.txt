@@ -1,0 +1,5 @@
+graph-5.txt     Graph to load
+2               1 is MIS          2 is VC
+34              N (iterations)
+5               Colors for the VC problem
+.99             Change rate for the VC problem
